@@ -143,6 +143,7 @@ a:focus, a:hover {
 
 .masthead .intro-body .intro-text {
   font-size: 18px;
+  font-family: Helvetica, sans-serif
 }
 
 @media (min-width: 768px) {
@@ -280,4 +281,8 @@ img::selection {
 
 img::-moz-selection {
   background: transparent;
+}
+
+.weather-info {
+  font-weight: 900;
 }
