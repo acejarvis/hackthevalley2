@@ -8,8 +8,8 @@
 	width: 20px; 
 	margin-left: -15px;
 	position: absolute;
-	left: 50%;
-	top: 180%;
+	left: 100px; 
+	top: 70px; 
 }
 .sunny:before {
 	background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(255,255,255,0.8) 50%, rgba(255,255,255,0) 100%);
@@ -60,7 +60,7 @@
 	width: 50px; 
 	margin-left: -60px;
 	position: absolute;
-	left: 20px;
+	left: 100px; 
 	top: 70px; 
 }
 .cloudy:after {
@@ -108,8 +108,8 @@
 	width: 50px;
 	margin-left: -60px;
 	position: absolute;
-	left: 427px;
-	top: 70px;
+	left: 100px; 
+	top: 70px; 
 }
 .rainy:after {
 	-webkit-animation: rainy_shadow 5s ease-in-out infinite 1s;
@@ -571,8 +571,8 @@
 	width: 50px;
 	margin-left: -60px;
 	position: absolute;
-	left: 1112px;
-	top: 70px;
+	left: 100px; 
+	top: 70px; 
 }
 .snowy:after {
 	-webkit-animation: snowy_shadow 5s ease-in-out infinite 1s;

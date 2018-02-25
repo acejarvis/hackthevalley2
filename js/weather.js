@@ -231,7 +231,7 @@ $(document).ready(function (){
                         case 36:animation="'sunny'";break;
                         case 37:
                         case 38:
-                        case 39:animation="'stormy'";break;
+                        case 39:
                         case 40:animation="'rainy'";break;
                         case 41:
                         case 42:
