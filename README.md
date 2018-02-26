@@ -4,3 +4,5 @@
 Purpose behind creating this app was to make user connect to nature and share their emotions. Additionally, music can help freshen up as well as change mood significantly.
 
 ## About
+
+This application tries to match your mood with the weather.
